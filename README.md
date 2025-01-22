@@ -38,9 +38,17 @@ Sentiment Breakdown: Around 91.87% of reviews are positive, while 8.13% are nega
 Word Clouds: Positive words (e.g., "good", "amazing") and negative words (e.g., "poor", "garbage") are prominently displayed.
 # Model Performance
 Model	Training Accuracy	Testing Accuracy
+
+
 Random Forest	98%	91%
+
+
 XGBoost	97%	92%
+
+
 Decision Tree	95%	89%
+
+
 Confusion matrices and evaluation metrics are visualized in the notebook for detailed performance analysis.
 
 
